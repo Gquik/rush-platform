@@ -16,14 +16,14 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="rush-auth" target="1.5" />
-      <module name="rush-common" target="1.5" />
-      <module name="rush-config" target="1.5" />
-      <module name="rush-dao" target="1.5" />
-      <module name="rush-opapi" target="1.5" />
-      <module name="rush-platform" target="1.5" />
-      <module name="rush-service" target="1.5" />
-      <module name="rush-webapi" target="1.5" />
+      <module name="rush-auth" target="1.8" />
+      <module name="rush-common" target="1.8" />
+      <module name="rush-config" target="1.8" />
+      <module name="rush-dao" target="1.8" />
+      <module name="rush-opapi" target="1.8" />
+      <module name="rush-platform" target="1.8" />
+      <module name="rush-service" target="1.8" />
+      <module name="rush-webapi" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
