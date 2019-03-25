@@ -2,7 +2,14 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/rush-auth/rush-auth.iml" filepath="$PROJECT_DIR$/rush-auth/rush-auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rush-common/rush-common.iml" filepath="$PROJECT_DIR$/rush-common/rush-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rush-config/rush-config.iml" filepath="$PROJECT_DIR$/rush-config/rush-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rush-dao/rush-dao.iml" filepath="$PROJECT_DIR$/rush-dao/rush-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rush-opapi/rush-opapi.iml" filepath="$PROJECT_DIR$/rush-opapi/rush-opapi.iml" />
       <module fileurl="file://$PROJECT_DIR$/rush-platform.iml" filepath="$PROJECT_DIR$/rush-platform.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rush-service/rush-service.iml" filepath="$PROJECT_DIR$/rush-service/rush-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rush-webapi/rush-webapi.iml" filepath="$PROJECT_DIR$/rush-webapi/rush-webapi.iml" />
     </modules>
   </component>
 </project>

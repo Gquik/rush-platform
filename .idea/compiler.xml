@@ -6,11 +6,24 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="rush-platform" />
+        <module name="rush-auth" />
+        <module name="rush-common" />
+        <module name="rush-config" />
+        <module name="rush-dao" />
+        <module name="rush-opapi" />
+        <module name="rush-service" />
+        <module name="rush-webapi" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="rush-auth" target="1.5" />
+      <module name="rush-common" target="1.5" />
+      <module name="rush-config" target="1.5" />
+      <module name="rush-dao" target="1.5" />
+      <module name="rush-opapi" target="1.5" />
       <module name="rush-platform" target="1.5" />
+      <module name="rush-service" target="1.5" />
+      <module name="rush-webapi" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

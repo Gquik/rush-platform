@@ -4,6 +4,13 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/rush-common/pom.xml" />
+        <option value="$PROJECT_DIR$/rush-auth/pom.xml" />
+        <option value="$PROJECT_DIR$/rush-config/pom.xml" />
+        <option value="$PROJECT_DIR$/rush-dao/pom.xml" />
+        <option value="$PROJECT_DIR$/rush-opapi/pom.xml" />
+        <option value="$PROJECT_DIR$/rush-service/pom.xml" />
+        <option value="$PROJECT_DIR$/rush-webapi/pom.xml" />
       </list>
     </option>
   </component>

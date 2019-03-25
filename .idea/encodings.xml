@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/rush-auth" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rush-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rush-config" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rush-dao" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rush-opapi" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rush-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rush-webapi" charset="UTF-8" />
+  </component>
+</project>
